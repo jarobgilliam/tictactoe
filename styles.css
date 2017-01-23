@@ -1,0 +1,22 @@
+.btn {
+  background-color: #ccc;
+  margin: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+.row {
+  display: inline-block;
+}
+
+.turnDisplay {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.explainerText {
+  font-size: 12px;
+  color: #555;
+  font-style: italic;
+  margin-top: 20px;
+}
